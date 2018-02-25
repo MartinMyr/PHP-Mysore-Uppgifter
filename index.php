@@ -1,12 +1,12 @@
 <?php 
     include 'include/header.php';
-    include 'tasks/8.php';
+    include 'tasks/9.php';
 ?>
 
 
 <?php
 
-write2Dim($array1)
+write2DimSum($array1)
 ?>
 
 
