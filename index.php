@@ -1,12 +1,12 @@
 <?php 
     include 'include/header.php';
-    include 'tasks/9.php';
+    include 'tasks/10.php';
 ?>
 
 
 <?php
 
-write2DimSum($array1)
+capitalize($userName);
 ?>
 
 
